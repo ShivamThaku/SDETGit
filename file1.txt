@@ -1,7 +1,4 @@
-
-
-hellow world .
-bug2
+hellow world
 
 
 
